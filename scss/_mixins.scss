@@ -1,0 +1,14 @@
+// EXTENDS
+.btn-send{
+    border: none;
+    border-radius: 5px;
+    background-image: linear-gradient(to right, #0067ff, #006fff, #0076ff, #007dff, #0084ff, #0089ff, #008fff, #0094ff, #0099ff, #009dff, #00a2ff, #00a6ff);
+    color: white;
+    padding: 10px;
+}
+
+.btn-delete{
+    @extend .btn-send;
+    background-image: linear-gradient(to right, #ff0000, #f80000, #f10000, #eb0000, #e40000, #de0000, #d80000, #d20000, #cb0000, #c50000, #be0000, #b80000);
+    margin-left: 0px;
+}
