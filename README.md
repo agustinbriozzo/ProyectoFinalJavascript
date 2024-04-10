@@ -15,6 +15,7 @@ Este proyecto es una página web para un hotel que permite simular reservas. Fue
 - HTML
 - CSS
 - Sass
+- Bootstrap
 - JavaScript
 
 ## Ejecución del Proyecto
@@ -22,7 +23,13 @@ Este proyecto es una página web para un hotel que permite simular reservas. Fue
 Clona este repositorio:
 
 ```bash
-git clone <URL_del_repositorio>
+git clone https://github.com/briozzoagustin/ProyectoFinalJavascript.git
 ```
 
 Abre el archivo `index.html` en tu navegador web.
+
+## Acceso a la Página
+
+La página del proyecto está disponible en la siguiente dirección:
+
+[Visita la página del proyecto](https://aikenhosteria.netlify.app/)
